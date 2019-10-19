@@ -1,0 +1,91 @@
+.lorem {
+	
+	text-align: center;
+	padding: 25px;
+	background: #c44937;
+}
+
+h2 , h3{
+	text-align: center;
+	color: #4a4a4a;
+}
+
+p{
+	color: #a8a8a8;
+	text-align: center;
+}
+
+hr{
+	height: 8px;
+	width: 100%;
+	background: #c34836;
+	color:  #c34836;
+}
+
+.al_center{
+	text-align: center;
+	background: #eeeeee;
+}
+
+.bord_bot{
+	border-bottom: 1px solid #788b0b;
+}
+
+.porfolio{
+	margin-left: 23%;
+	margin-right: 23%;
+	margin-bottom: 35px;
+	margin-top: 35px;
+}
+
+.talk_us{
+	background: #7a7a7a;
+	padding-top: 85px;
+	padding-bottom: 85px;
+}
+
+.white_text{
+	color: white;
+}
+
+.contact_inf{
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+
+.our_contact{
+	text-align: center;
+}
+
+#butt_sub{
+	background: #f27654;
+	width: 66%;
+	height: 45px;
+	color : white ;
+}
+
+input{
+	width: 65%;
+	height: 40px;
+}
+
+.cont{
+	padding-bottom: 20px;
+}
+
+footer{
+	background: #f37a5b;
+	width: 100%;
+	text-align: center;
+	color: white;
+	height: 60px;
+	vertical-align: middle;
+}
+
+.services{
+	text-align: center;
+}
+
+.services .support .fas{
+	color: red;
+}
